@@ -1,0 +1,425 @@
+tuci.png
+size: 943, 1076
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all levels - pressed
+  rotate: false
+  xy: 192, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+all levels
+  rotate: false
+  xy: 768, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ban - stin
+  rotate: false
+  xy: 0, 654
+  size: 110, 175
+  orig: 110, 175
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 110, 654
+  size: 110, 175
+  orig: 110, 175
+  offset: 0, 0
+  index: -1
+banL - stin
+  rotate: false
+  xy: 0, 494
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+banL
+  rotate: false
+  xy: 768, 384
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+bckgrContainer
+  rotate: false
+  xy: 16, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bckgrMainL
+  rotate: false
+  xy: 220, 654
+  size: 422, 298
+  orig: 422, 298
+  offset: 0, 0
+  index: -1
+bckgrMainP
+  rotate: false
+  xy: 642, 654
+  size: 299, 422
+  orig: 299, 422
+  offset: 0, 0
+  index: -1
+bckgrPlay
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 96, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+boxOnTarget
+  rotate: false
+  xy: 0, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo L1
+  rotate: false
+  xy: 672, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo L2
+  rotate: false
+  xy: 480, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo L3
+  rotate: false
+  xy: 672, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo P1
+  rotate: false
+  xy: 576, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo P2
+  rotate: false
+  xy: 0, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, levo P3
+  rotate: false
+  xy: 768, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo L1
+  rotate: false
+  xy: 96, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo L2
+  rotate: false
+  xy: 384, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo L3
+  rotate: false
+  xy: 192, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo P1
+  rotate: false
+  xy: 288, 384
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo P2
+  rotate: false
+  xy: 672, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pravo P3
+  rotate: false
+  xy: 384, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred L1
+  rotate: false
+  xy: 516, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred L2
+  rotate: false
+  xy: 708, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred L3
+  rotate: false
+  xy: 576, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred P1
+  rotate: false
+  xy: 804, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred P2
+  rotate: false
+  xy: 0, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, pred P3
+  rotate: false
+  xy: 420, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad L1
+  rotate: false
+  xy: 324, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad L2
+  rotate: false
+  xy: 36, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad L3
+  rotate: false
+  xy: 132, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad P1
+  rotate: false
+  xy: 228, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad P2
+  rotate: false
+  xy: 612, 0
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chuze, zad P3
+  rotate: false
+  xy: 0, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+done - pressed
+  rotate: false
+  xy: 192, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+done
+  rotate: false
+  xy: 480, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+download - pressed
+  rotate: false
+  xy: 288, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+download
+  rotate: false
+  xy: 384, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 96, 192
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+imgHome
+  rotate: false
+  xy: 768, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+k - stin
+  rotate: false
+  xy: 805, 494
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 705, 494
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+Levo
+  rotate: false
+  xy: 384, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+o1 - stin
+  rotate: false
+  xy: 620, 494
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 440, 494
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+o2 - stin
+  rotate: false
+  xy: 260, 494
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 175, 494
+  size: 85, 150
+  orig: 85, 150
+  offset: 0, 0
+  index: -1
+Pravo
+  rotate: false
+  xy: 576, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Pred
+  rotate: false
+  xy: 480, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+run - pressed
+  rotate: false
+  xy: 288, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+run
+  rotate: false
+  xy: 480, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+s - stin
+  rotate: false
+  xy: 345, 494
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 525, 494
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+steps_jump
+  rotate: false
+  xy: 672, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+steps_walk
+  rotate: false
+  xy: 576, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 192, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 96, 96
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Zad
+  rotate: false
+  xy: 288, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,425 @@
+robi.png
+size: 500, 1649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all levels - pressed
+  rotate: false
+  xy: 0, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+all levels
+  rotate: false
+  xy: 420, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ban - stin
+  rotate: false
+  xy: 147, 1412
+  size: 111, 237
+  orig: 111, 237
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 258, 1412
+  size: 111, 237
+  orig: 111, 237
+  offset: 0, 0
+  index: -1
+banL - stin
+  rotate: false
+  xy: 237, 784
+  size: 237, 111
+  orig: 237, 111
+  offset: 0, 0
+  index: -1
+banL
+  rotate: false
+  xy: 0, 784
+  size: 237, 111
+  orig: 237, 111
+  offset: 0, 0
+  index: -1
+bckgrContainer
+  rotate: false
+  xy: 16, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bckgrMainL
+  rotate: false
+  xy: 258, 895
+  size: 209, 147
+  orig: 209, 147
+  offset: 0, 0
+  index: -1
+bckgrMainP
+  rotate: false
+  xy: 0, 1412
+  size: 147, 209
+  orig: 147, 209
+  offset: 0, 0
+  index: -1
+bckgrPlay
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 129, 895
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+boxOnTarget
+  rotate: false
+  xy: 0, 895
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+chuze, levo L1
+  rotate: false
+  xy: 300, 576
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, levo L2
+  rotate: false
+  xy: 300, 680
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, levo L3
+  rotate: false
+  xy: 400, 680
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, levo P1
+  rotate: false
+  xy: 100, 473
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, levo P2
+  rotate: false
+  xy: 400, 370
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, levo P3
+  rotate: false
+  xy: 0, 473
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pravo L1
+  rotate: false
+  xy: 400, 576
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, pravo L2
+  rotate: false
+  xy: 0, 680
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, pravo L3
+  rotate: false
+  xy: 100, 680
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+chuze, pravo P1
+  rotate: false
+  xy: 0, 576
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pravo P2
+  rotate: false
+  xy: 100, 576
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pravo P3
+  rotate: false
+  xy: 400, 473
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred L1
+  rotate: false
+  xy: 400, 267
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred L2
+  rotate: false
+  xy: 0, 267
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred L3
+  rotate: false
+  xy: 300, 370
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred P1
+  rotate: false
+  xy: 400, 164
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred P2
+  rotate: false
+  xy: 300, 164
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, pred P3
+  rotate: false
+  xy: 200, 164
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad L1
+  rotate: false
+  xy: 100, 267
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad L2
+  rotate: false
+  xy: 200, 267
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad L3
+  rotate: false
+  xy: 100, 370
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad P1
+  rotate: false
+  xy: 200, 370
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad P2
+  rotate: false
+  xy: 0, 370
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+chuze, zad P3
+  rotate: false
+  xy: 300, 267
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+done - pressed
+  rotate: false
+  xy: 356, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+done
+  rotate: false
+  xy: 100, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+download - pressed
+  rotate: false
+  xy: 164, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+download
+  rotate: false
+  xy: 228, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 100, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+imgHome
+  rotate: false
+  xy: 364, 64
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+k - stin
+  rotate: false
+  xy: 344, 1227
+  size: 106, 185
+  orig: 106, 185
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 0, 1227
+  size: 106, 185
+  orig: 106, 185
+  offset: 0, 0
+  index: -1
+Levo
+  rotate: false
+  xy: 200, 680
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+o1 - stin
+  rotate: false
+  xy: 210, 1227
+  size: 134, 185
+  orig: 134, 185
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 324, 1042
+  size: 134, 185
+  orig: 134, 185
+  offset: 0, 0
+  index: -1
+o2 - stin
+  rotate: false
+  xy: 106, 1227
+  size: 104, 185
+  orig: 104, 185
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 220, 1042
+  size: 104, 185
+  orig: 104, 185
+  offset: 0, 0
+  index: -1
+Pravo
+  rotate: false
+  xy: 200, 576
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+Pred
+  rotate: false
+  xy: 200, 473
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+run - pressed
+  rotate: false
+  xy: 36, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+run
+  rotate: false
+  xy: 292, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+s - stin
+  rotate: false
+  xy: 110, 1042
+  size: 110, 185
+  orig: 110, 185
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 0, 1042
+  size: 110, 185
+  orig: 110, 185
+  offset: 0, 0
+  index: -1
+steps_jump
+  rotate: false
+  xy: 164, 64
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+steps_walk
+  rotate: false
+  xy: 64, 64
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 0, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 264, 64
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Zad
+  rotate: false
+  xy: 300, 473
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
